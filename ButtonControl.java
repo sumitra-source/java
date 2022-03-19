@@ -1,4 +1,4 @@
-package Practical;
+5package Practical;
 import javax.swing.*;  
 
 public class ButtonControl{
